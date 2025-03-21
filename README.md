@@ -14,6 +14,16 @@ Este proyecto fue realizado como parte de mi aprendizaje en Django. 🚀
 
 ---
 
+![Image](https://github.com/user-attachments/assets/c2d57e92-bb11-4296-b584-7cd394a5535d)
+
+![Image](https://github.com/user-attachments/assets/0d0844b6-9b3c-4bcc-8ddf-5bca1cac7b62)
+
+![Image](https://github.com/user-attachments/assets/16942480-018f-4e62-a0db-023b1d501bd0)
+
+![PHOTO-2025-03-20-22-54-22](https://github.com/user-attachments/assets/d67843b9-5b0f-4fae-a2c2-66319f0153e6)
+
+---
+
 ## 🚀 Cómo Probar la Aplicación
 
 1️⃣ Clonar el repositorio
